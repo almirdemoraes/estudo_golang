@@ -1,0 +1,1 @@
+/*Crie um array em que seja tipo inteiro e que exibe o valor e indice dos itens.
